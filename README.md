@@ -4,7 +4,7 @@ Do Spanish wages and housing prices move together, and how well can either be
 forecast? A time-series analysis of INE data for 2008-2023, and an honest look
 at how much 16 years of data can actually support.
 
-[![R](https://img.shields.io/badge/R-4.x-276DC3.svg?logo=r)](https://www.r-project.org/)
+[![R](https://img.shields.io/badge/R->=4.5.3-276DC3.svg?logo=r)](https://www.r-project.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 Is there a long-run relationship between average wages and the Housing Price
